@@ -1,0 +1,14 @@
+bittensor==6.9.4
+datasets==2.*
+envparse==0.2.0
+Pillow==10.*
+requests==2.*
+scikit-learn==1.*
+torch==2.*
+transformers==4.*
+wandb
+boto3
+pyOpenSSL==24.*
+aioboto3
+tabulate
+uvloop
